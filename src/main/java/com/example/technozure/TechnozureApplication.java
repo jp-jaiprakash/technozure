@@ -6,8 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TechnozureApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TechnozureApplication.class, args);
-	}
+
+    public static void main(String[] args) {
+        SpringApplication.run(TechnozureApplication.class, args);
+    }
 
 }
